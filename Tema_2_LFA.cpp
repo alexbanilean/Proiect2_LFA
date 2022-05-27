@@ -1,5 +1,3 @@
-///Tema 2 - Banilean Alexandru-Ioan, grupa 152
-
 #include <bits/stdc++.h>
 
 using namespace std;
